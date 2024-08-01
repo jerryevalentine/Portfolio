@@ -1,4 +1,9 @@
 # Portfolio
+### This GitHub repository highlights my (Jerry Valentine) portfolio.
+* Items come from
+* *Presonal Interest
+* 
+
 ### Projects
 ##### Logistic Regression Model Example: Credit Risk Classification 
 * Developed a logistic regression model using scikit-learn to predict [specific outcome].
