@@ -1,4 +1,5 @@
 # This GitHub repository highlights my (Jerry Valentine) portfolio.
+* Samples of the Jira rojects used to manage these projects are included as screenshots.
 ### Items come from:
 * University of California, Berkeely Data Analysis bootcamp.
 * Presonal Interest
