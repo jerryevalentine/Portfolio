@@ -1,8 +1,9 @@
-# Portfolio
-### This GitHub repository highlights my (Jerry Valentine) portfolio.
-* Items come from
-* *Presonal Interest
-* 
+# This GitHub repository highlights my (Jerry Valentine) portfolio.
+### Items come from:
+* University of California, Berkeely Data Analysis bootcamp.
+* Presonal Interest
+* Perfessional Development and Training outside of an educational setting.
+* To learning new technology as part of my employment. 
 
 ### Projects
 ##### Logistic Regression Model Example: Credit Risk Classification 
