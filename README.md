@@ -13,3 +13,6 @@
 * Implemented data preprocessing, feature selection, model training, and evaluation.
 * Achieved a high degree of accuracy on the test dataset.
 * Created a detailed README with instructions for running the code and interpreting results.
+
+##### Belly Button Biodiversity Dashboard with JSON data
+* https://github.com/jerryevalentine/Belly-Button-Biodiversity-JSON-Dashboard
