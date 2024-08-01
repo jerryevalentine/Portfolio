@@ -16,3 +16,6 @@
 
 ##### Belly Button Biodiversity Dashboard with JSON data
 * https://github.com/jerryevalentine/Belly-Button-Biodiversity-JSON-Dashboard
+
+##### 
+* https://public.tableau.com/views/Challenge18Final/Map-AverageTripDuration?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
