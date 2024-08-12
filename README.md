@@ -1,5 +1,6 @@
 # Jerry Valentine's portfolio.
-* Samples of the Jira rojects used to manage these projects are included as screenshots.
+* Samples of Jira rojects used to manage these projects are included as screenshots, where application.
+* The portfolio is always expanding and evolving - please ask any questions about any items.
 ### Items come from:
 * University of California, Berkeely Data Analysis bootcamp.
 * Presonal Interest
