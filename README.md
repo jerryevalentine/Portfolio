@@ -1,11 +1,4 @@
 # Jerry Valentine's portfolio.
-* Samples of Jira rojects used to manage these projects are included as screenshots, where application.
-* The portfolio is always expanding and evolving - please ask any questions about any items.
-### Items come from:
-* University of California, Berkeely Data Analysis bootcamp.
-* Presonal Interest
-* Perfessional Development and Training outside of an educational setting.
-* To learning new technology as part of my employment. 
 
 ### Projects
 ##### Logistic Regression Model Example: Credit Risk Classification 
